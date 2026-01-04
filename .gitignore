@@ -1,0 +1,6 @@
+# Archivos de sistema y cache de Python
+__pycache__/
+*.pyc
+
+# Carpetas de medios locales (para no subir fotos personales)
+rostros/
